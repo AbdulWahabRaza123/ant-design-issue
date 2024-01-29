@@ -1,0 +1,28 @@
+.email_label .ant-row{
+    display: block !important;
+}
+
+.input_email{
+    width: 83%;
+    height: 40px;
+}
+
+.input-email-height-40{
+    height: 40px;
+}
+
+.ant-form-item .ant-form-item-label >label::after {
+    display: none !important;
+}
+
+.ant-form-item .ant-form-item-label >label {
+    flex-direction: row-reverse;
+}
+
+
+@media  (max-width: 767px) {
+    .input_email{
+        width: 100%;
+    }
+}
+

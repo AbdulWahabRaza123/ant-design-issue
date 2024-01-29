@@ -1,0 +1,9 @@
+.group_inputs{
+  
+    width: 100%;
+    height: 40px;
+}
+
+.input_email .ant-select-arrow{
+    top: 46%;
+}

@@ -1,0 +1,31 @@
+.progress-container{
+    max-width: 742px;
+}
+
+
+
+.progress-bar{
+    /* width: 80%; */
+}
+
+
+.progress-bar .ant-progress-text{
+    display: none;
+}
+
+.progress-bar .ant-progress-inner{
+  border-radius: 4px;
+  height: 13px;
+  /* width: 80%; */
+}
+
+.progress-bar .ant-progress-inner .ant-progress-bg{
+    border-radius: 4px;
+    height: 13px !important;
+    background-color: #3051C5;
+  }
+
+  .data{
+    max-width: 100px;
+    width: 100%;
+  }
