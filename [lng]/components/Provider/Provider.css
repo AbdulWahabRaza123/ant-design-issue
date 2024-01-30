@@ -1,0 +1,33 @@
+/* .selected-provider-card{
+    width: 83%;
+} */
+
+.group-buttons{
+    height: 46px;
+}
+
+.btn-save{
+    width: 132px;
+}
+
+.btn-cancel{
+    width: 149px;
+}
+
+.w-100{
+    width: 100% !important;
+}
+
+.delete{
+    width: 217px;
+}
+
+.edit{
+    width: 127px;
+}
+
+.provider-info {
+     
+    transition: 0.3s all ease;
+   
+  }

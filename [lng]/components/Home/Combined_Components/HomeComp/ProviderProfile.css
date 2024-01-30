@@ -1,0 +1,15 @@
+.add-provider-modal .ant-modal-content .ant-modal-close-x span{
+  color: #000;
+}
+
+.add-provider-modal .ant-modal-content button:hover{
+    background-color: transparent;
+}
+
+.btn-height input{
+  height: 41px;
+}
+
+.btn-height .ant-input-wrapper .ant-input-group-addon button{
+  height: 41px;
+}

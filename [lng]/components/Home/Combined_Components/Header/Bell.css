@@ -1,0 +1,31 @@
+
+.ant-dropdown {
+    z-index: 10;
+}
+.bell-icon{
+    width: 1.8rem;
+    height: 1.7rem;
+    position: relative;
+    left: -6px;
+}
+
+
+.notification-panel{
+     width: 60%;
+}
+
+.background{
+    background-image: url("../../../../../../../public/admin/images/Ellipse.svg");
+    background-repeat: no-repeat;
+}
+
+.no-border{
+    border: none;
+}
+
+
+@media screen and (max-width: 1400px) {
+    .notification-panel{
+        width: 460px;
+   }
+  }

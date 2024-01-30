@@ -1,0 +1,214 @@
+*
+{
+  margin: 0;
+  padding: 0;
+}
+
+
+h1
+{
+    font-size: var(--fs-42);
+    line-height: var(--lh-52);
+}
+
+h2{
+    font-size: var(--fs-28);
+}
+
+h3{
+    font-size: var(--fs-24);
+    line-height: var(--lh-26);
+}
+
+.fw-700{
+    font-weight: var(--fw-700);
+}
+
+
+.font-fam
+{
+    font-family: var(--font-fam);
+}
+
+p
+{
+    font-weight: var(--fw-500);
+    line-height: var(--lh-24);
+    color: var(--p-color);
+}
+
+.fs-42{
+    font-size: var(--fs-42);
+}
+
+.fs-24{
+    font-size: var(--fs-24);
+}
+
+
+.fs-16{
+    font-size: var(--fs-16);
+}
+
+.fs-14{
+    font-size: var(--fs-14);
+}
+
+.fw-700{
+    font-weight: 700;
+}
+
+.fw-600{
+    font-weight: 600;
+}
+
+.fw-500{
+    font-weight: 500;
+}
+
+.fw-400{
+    font-weight: 400;
+}
+
+.btn-primary
+{
+    background-color: var(--btn-primary);      /* Do not specify font weights in button classes as for every class you'll have to repeat the font-weight property */
+    color: var(--btn-primary-color);
+}
+
+.bg-primary{
+    background-color: var(--bg-primary);
+}
+
+.black{
+    color: var(--color-black);
+}
+
+.btn-secondary
+{
+   background-color: var(--btn-secondary);
+   color: var(--btn-primary);
+}
+
+.bg-white{
+    background-color: var(--bg-white);
+}
+
+.text-gray{
+    color: #6D6D6D;
+}
+
+label
+{
+    font-size: var(--fs-14) !important;
+    color: var(--label-color) !important;
+    font-family: var(--font-fam) !important;
+}
+
+.logo-text{
+    color: var(--dochyve-logo);
+}
+
+.lh-26{
+    line-height: 26px;
+}
+
+.text-primary{
+    color: var(--bg-primary);
+}
+
+
+.btn-transparent-border{
+    border: var(--btn-transparent-border);
+}
+
+.multiple_select .ant-select-selector  .ant-select-selection-item
+{
+    background: var(--bg-primary);
+    color: var(--btn-primary-color);
+}
+.ant-select-selector
+{
+    min-height: 40px;
+    max-height: 80px;
+}
+
+
+.input-email .ant-select-selection-overflow-item-suffix{
+    color: #fff;
+}
+
+.input_email .ant-select-selector .ant-select-selection-overflow  .anticon-close {
+    background: red;
+    border-radius: 20px;
+    padding: 2px;
+   vertical-align: unset;
+}
+
+.input_email .ant-select-selector .ant-select-selection-overflow  .anticon-close svg {
+   font-size: 14px !important;
+}
+
+ .anticon-close{
+    color: #fff;
+ }
+
+ .custom_options{
+    font-size: var(--fs-16) !important;
+    font-family: var(--font-fam) !important;
+    font-weight: var(--fw-500) !important;
+ }
+
+ ::placeholder{
+    font-family: var(--font-fam);
+    font-weight: var(--fw-500);
+   
+ }
+
+ .ant-select-selection-placeholder{
+    font-family: var(--font-fam)  !important;
+    font-weight: var(--fw-500);
+ }
+
+ .bg-red{
+    background-color: var(--bg-red);
+ }
+
+ .w-83{
+    width: 83% !important;
+ }
+
+ .h-46{
+    height: 46px;
+ }
+
+ .bg-golden{
+    background-color: #F5C86F;
+ }
+
+ .bg-silver{
+    background-color: #D2D2D2;
+ }
+ .text-golden{
+    color: #F5C86F;
+ }
+
+ .text-silver{
+    color: #6D6D6D;
+ }
+ .about-dochyve{
+    max-width: 700px;
+ }
+
+ 
+
+ @media only screen and (max-width:768px) {
+    h1{
+        font-size: 25px;
+        line-height: 31px;
+    }
+ }
+
+ .lh-24{
+    line-height: 24px;
+ }

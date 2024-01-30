@@ -1,0 +1,46 @@
+.card-background{
+    background-image: url("../../../../../../public/admin/images/atm.svg");
+    width: 326px;
+    height: 206px;
+}
+
+
+.yellow-ellipse{
+    background-image: url("../../../../../../public/admin/images/yellow-ellipse.svg");
+    background-repeat: no-repeat;
+    width: 87px;
+    height: 87px;
+}
+.circle{
+  border:6px solid #F5C86F;
+  border-radius:50%;
+  background:rgba(0,0,0,0);
+  width:100px;
+  height:100px;
+  text-align:center;
+  line-height:100px;
+}
+
+.red-circle{
+    border:6px solid #F7525C;
+    border-radius:50%;
+    background:rgba(0,0,0,0);
+    width:100px;
+    height:100px;
+    text-align:center;
+    line-height:100px;
+  }
+
+
+  .green-circle{
+    border:6px solid #24CCB8;
+    border-radius:50%;
+    background:rgba(0,0,0,0);
+    width:100px;
+    height:100px;
+    text-align:center;
+    line-height:100px;
+  }
+
+
+  

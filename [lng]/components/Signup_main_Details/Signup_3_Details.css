@@ -1,0 +1,19 @@
+.custom-alert{
+    border-radius: 25px;
+    border-color: #0D257B;
+    background-color: rgba(13, 37, 123, 0.05);
+}
+
+.header-card{
+    border-radius: 8px 8px 0px 0px;
+}
+
+.feature-text{
+    padding-left: 1rem;
+}
+
+.custom-table .ant-table-thead .ant-table-cell {
+    color: #6D6D6D;
+    font-weight: 600;
+    font-family: "Montserrat";
+}

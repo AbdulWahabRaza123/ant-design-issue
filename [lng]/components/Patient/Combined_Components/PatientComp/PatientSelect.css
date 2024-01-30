@@ -1,0 +1,16 @@
+.slider-button span{
+    display: flex;
+    justify-content: center;
+}
+
+.bar-chart canvas{
+    /* width: 70%; */
+}
+
+.bar-chart{
+    /* width: 70%; */
+    background-color: #fff;
+    border-radius: 10px;
+    padding: 30px;
+}
+

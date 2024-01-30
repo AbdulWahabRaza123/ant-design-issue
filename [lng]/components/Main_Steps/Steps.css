@@ -1,0 +1,46 @@
+.ant-steps .ant-steps-item-wait>.ant-steps-item-container>.ant-steps-item-tail::after {
+    background: #fff;
+}
+
+.ant-steps .ant-steps-item-process>.ant-steps-item-container>.ant-steps-item-tail::after {
+    background-color: #fff;
+}
+
+.ant-steps .ant-steps-item-container {
+    height: 100px;
+}
+
+.horizontal-steps .ant-steps-item .ant-steps-item-container .ant-steps-item-content{
+    display: block;
+}
+
+.horizontal-steps .ant-steps-item .ant-steps-item-container{
+   text-align: center;
+}
+
+.horizontal-steps .ant-steps-item {
+    white-space: wrap !important;
+    padding-inline-start: unset !important;
+}
+
+.responsive-title{
+    font-size: 10px !important;
+}
+
+.horizontal-steps .ant-steps-item .ant-steps-item-container .ant-steps-item-content{
+    display: block;
+}
+
+.horizontal-steps .ant-steps-item .ant-steps-item-container .ant-steps-item-content .ant-steps-item-title   {
+   padding-inline-end: unset;
+   line-height: 18px;
+ }
+
+ .ant-steps .ant-steps-item-finish>.ant-steps-item-container>.ant-steps-item-tail::after {
+    background-color: #F5C86F;
+}
+.background-div{
+    /* width: 74%; */
+}
+
+
