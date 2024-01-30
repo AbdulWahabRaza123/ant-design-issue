@@ -1,0 +1,17 @@
+.pointer{
+    cursor: pointer;
+}
+
+.transaction-container{
+    box-shadow: 0px 1px 13px 0px #00000014;
+    border-radius: 8px;
+
+}
+
+.status{
+    color: #59BA4A;
+}
+
+.radius{
+    border-radius: 10px;
+}

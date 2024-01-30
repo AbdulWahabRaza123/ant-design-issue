@@ -1,0 +1,7 @@
+
+@media only screen and (max-width:767px) {
+    .tablet-selectionbar{
+       top: -80px;
+       right: 0;
+    }
+}

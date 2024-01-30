@@ -1,0 +1,18 @@
+@import '../../../assets/css/signup-variables.css' ;
+
+.custom-steps > .active
+{
+    background-color: var(--bg-yellow);
+}
+
+.custom-steps > .unactive
+{
+    background-color: var(--bg-grey);
+}
+
+
+
+
+
+
+

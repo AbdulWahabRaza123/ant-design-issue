@@ -1,0 +1,55 @@
+.custom-calendar {
+    padding: 10px;
+    /* width: 74%; */
+  }
+  
+  .week {
+    display: flex;
+    background-color: #F8F8FB;
+  }
+  
+  .day {
+    border-width: 0px 1px 0px 1px;
+
+    border-style: solid;
+    
+    border-color: #FFFFFF;
+    padding: 10px;
+    text-align: center;
+  }
+ 
+  .selected {
+    background-color: #e0e0e0;
+    border-bottom: 2px solid #007bff;
+  }
+  
+  .today {
+    border-bottom: 2px solid #007bff; /* Adjust the color as needed */
+  }
+
+  .next-date{
+    border-bottom: 2px solid #007bff;
+  }
+
+  .prev-date{
+    border-bottom: 2px solid #007bff;
+  }
+
+  .left-right-arrows{
+    height: 64px !important;
+    border-radius: 1px !important;
+  }
+
+  .calendar-header{
+    width: 74%;
+    margin: auto;
+    border-radius: 6px;
+    background: #F6F8FF;
+  }
+
+  .patient-container{
+    border-left: 4.5px solid #12B76A;
+    background-color: #ECFDF3;
+    border-radius: 0px 4px 4px 0px;
+  }
+ 

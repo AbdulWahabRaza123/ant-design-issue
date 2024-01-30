@@ -1,0 +1,23 @@
+.search-button {
+    border-radius: 16px !important;
+    width: 55px !important;
+    height: 50px !important;
+}
+
+.search-button svg{
+    width: 22px;
+    height: 22px;
+}
+
+.search-input{
+    width: 350px !important;
+    border-radius: 16px;
+    height: unset !important;
+    background: rgba(13, 37, 123, 0.03);
+    border: none;
+}
+
+.search-input:focus{
+    border: none;
+    box-shadow: unset !important;
+}

@@ -1,0 +1,7 @@
+.btn-height input{
+    height: 41px;
+  }
+  
+  .btn-height .ant-input-wrapper .ant-input-group-addon button{
+    height: 41px;
+  }

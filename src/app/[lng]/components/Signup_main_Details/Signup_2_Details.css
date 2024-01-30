@@ -1,0 +1,8 @@
+.custom-collapse{
+    border: none !important;
+    background:#FBFCFD;
+}
+
+.custom-collapse .ant-collapse-content-box{
+    background:#FBFCFD
+}

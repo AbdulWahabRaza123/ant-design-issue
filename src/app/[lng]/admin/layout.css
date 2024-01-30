@@ -1,0 +1,17 @@
+.custom-container{
+    max-width: 1920px;
+    width: 100%;
+    padding: 0 20px;
+    margin: 0 auto;
+}
+
+.custom-container .ant-layout-sider{
+    width: 270px !important;
+    max-width: unset !important;
+    min-width: unset !important;
+    flex: unset !important;
+}
+
+.hamburger .anticon-close{
+    color: #000;
+}

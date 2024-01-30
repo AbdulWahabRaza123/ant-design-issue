@@ -1,0 +1,37 @@
+.custom-calendar .ant-select-selector{
+    min-height: unset;
+    max-height: unset;
+}
+
+.calendar_time{
+    border: 1px solid rgb(240, 240, 240);
+    border-radius: 8px;
+    background-color: #fff;
+}
+
+.timeslots{
+    border: 1px solid #0D257B;
+    border-radius: 5px;
+    height: 31px;
+}
+
+.blue-border{
+    border: 0.5px solid #0D257B;
+}
+
+
+.blue-placeholder::placeholder{
+    color: #0D257B;
+    font-weight: 500;
+   
+}
+
+.selected-slot{
+    background-color: #0D257B;
+}
+
+
+.selected-slot::placeholder{
+    
+    color: #fff;
+}

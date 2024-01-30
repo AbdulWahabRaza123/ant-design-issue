@@ -1,0 +1,35 @@
+html, body {
+ overflow: auto;
+}
+
+.radius{
+    border-radius: 16px;
+}
+
+.step-styling{
+    height: 100vh;
+}
+
+
+.steps_internal{
+    /* position: fixed; */
+}
+
+
+@media only screen and (max-width:1423px) {
+    .steps_internal{
+        padding: unset;
+    }
+}
+
+@media only screen and (max-width:992px) {
+    .radius{
+        border-radius: unset !important;
+    }
+}
+
+@media only screen and (max-width:576px) {
+    .bg-small-screen{
+        background-color: #FBFCFD;
+    }
+}

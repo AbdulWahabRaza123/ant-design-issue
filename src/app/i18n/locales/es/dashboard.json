@@ -1,0 +1,34 @@
+{
+    "sidebar": {
+        "home": "Inicio",
+        "dashboard": "Tablero",
+        "appointments": "Citas",
+        "patients": "Pacientes",
+        "reports": "Informes",
+        "manage": "Gestionar",
+        "doctors": "Doctores",
+        "authentication": "Autenticación",
+        "medical_billing": "Facturación Médica",
+        "credentialing": "Acreditación",
+        "insurance": "Seguros",
+        "tickets": "Entradas",
+        "help_desk": "Servicio de Asistencia",
+        "logout": "Cerrar sesión"
+    },
+    "provider":
+        {
+            "all_provider": "Todos los Proveedores",
+            "active_providers": "Proveedores Activos",
+            "inActive_providers": "Proveedores Inactivos",
+            "pending_approvals": "Aprobaciones Pendientes",
+            "search_for_doctor": "Buscar Médico",
+            "image": "Imagen",
+            "first_name": "Nombre",
+            "last_name": "Apellido",
+            "role": "Rol",
+            "speciality": "Especialidad",
+            "status": "Estado",
+            "actions": "Acciones"
+        }
+}
+
